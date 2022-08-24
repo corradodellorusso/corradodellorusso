@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🍴 I’m currently working at The Fork 
+- 📫 Reach me on: [corradodellorusso.it](https://www.corradodellorusso.it/) - [LinkedIn](https://www.linkedin.com/in/corradodellorusso/)
+- 😄 Pronouns: He / Him / His
+
+
 <!--
 **corradodellorusso/corradodellorusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
